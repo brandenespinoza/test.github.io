@@ -1,4 +1,4 @@
-remote_theme: nielsenramon/chalk
+remote_theme: amitmerchant1990/reverie
 plugins:
   - jekyll-remote-theme 
   - jekyll-relative-links
